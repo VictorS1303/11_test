@@ -1,0 +1,18 @@
+.pineapple-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    height: 400px;
+
+    & span
+    {
+        font-size: 30px;
+    }
+}
+
+video
+{
+    max-height: 100vh;
+}
